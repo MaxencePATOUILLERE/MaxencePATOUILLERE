@@ -1,16 +1,32 @@
-### Hi there 👋
+👋 Hi, I'm Maxence Patouillere!
 
-<!--
-**MaxencePATOUILLERE/MaxencePATOUILLERE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 About Me
+📚 Second-year Computer Science student at Ynov Toulouse Campus.
+🌐 Based in Toulouse, France.
 
-Here are some ideas to get you started:
+🛠️ Technical Skills
+🐍 Python
+🌐 HTML, CSS, JavaScript
+🎮 C#
+🏗️ C++
+🌐 PHP
+💾 SQL
+🚀 Golang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ Projects
+Python Chatbot: Developed an intelligent chatbot using natural language processing to enhance user interaction.
+Golang Websites: Designed and developed multiple high-performance websites using a Golang, HTML, CSS, and JavaScript stack. Integrated database functionalities for robust data management.
+Console-based RPG (C++): Created a feature-rich role-playing game entirely in console using C++.
+Travel API in C#: Implemented a robust API for a travel booking service, using C# and SQL for data management.
+
+🌱 Currently Learning
+Containerization technologies like Docker and Kubernetes
+Mobile app development with React Native
+
+🤝 Interested In
+Collaborating on open-source projects
+Internship or job opportunities in software development
+
+📬 Get in Touch
+📧 Email: maxpatouillere11@gmail.com
+👔 LinkedIn: https://www.linkedin.com/in/maxence-patouillere/
